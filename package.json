@@ -1,0 +1,27 @@
+{
+  "name": "chessalexa",
+  "version": "1.0.0",
+  "description": "Play chess with alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo test\"",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "dzung",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "3.0.3",
+    "express": "^4.16.2",
+    "jquery": "^3.2.1",
+    "socket.io": "^2.0.4",
+    "utf-8-validate": "4.0.0",
+    "ws": "4.0.0"
+  }
+}
