@@ -1,0 +1,15 @@
+body {
+	overflow-y: auto;
+	display: flex;
+	align-items: center;
+        justify-content: center;
+} 
+
+#gameBoard {
+	display: flex;
+    width: 400px;
+}
+
+#debugText {
+	font-size: xx-large;
+}

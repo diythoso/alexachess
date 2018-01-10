@@ -17,6 +17,7 @@
   "author": "dzung",
   "license": "ISC",
   "dependencies": {
+    "alexa-verifier": "^1.0.0",
     "bufferutil": "3.0.3",
     "express": "^4.16.2",
     "jquery": "^3.2.1",
